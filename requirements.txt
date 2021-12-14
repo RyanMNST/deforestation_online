@@ -4,7 +4,7 @@ aiodns==3.0.0
 aiohttp==3.7.4.post0
 aiohttp-socks==0.6.0
 aioitertools==0.8.0
-altair==4.1.0
+
 appdirs==1.4.4
 argon2-cffi==20.1.0
 astor==0.8.1
@@ -17,7 +17,7 @@ base58==2.1.1
 beautifulsoup4==4.9.3
 bleach==4.0.0
 blinker==1.4
-blis==0.7.5
+
 boto3
 botocore
 bs4==0.0.1
@@ -45,10 +45,10 @@ fake-useragent==0.1.11
 fastai==2.5.3
 fastcore==1.3.27
 fastdownload==0.0.5
-fastprogress==1.0.0
+
 filelock==3.0.12
 fsspec==2021.11.1
-gensim==4.1.2
+
 geographiclib==1.52
 geopy==2.2.0
 gitdb==4.0.9
@@ -75,12 +75,12 @@ kiwisolver==1.3.2
 langcodes==3.3.0
 lxml==4.6.4
 MarkupSafe==2.0.1
-matplotlib==3.4.3
+
 matplotlib-inline==0.1.2
 mistune==0.8.4
 multidict==5.2.0
 murmurhash==1.0.6
-mxnet==1.2.0
+
 nbclient==0.5.4
 nbconvert==6.1.0
 nbformat==5.1.3
