@@ -134,7 +134,6 @@ scipy==1.7.2
 Send2Trash==1.8.0
 six==1.16.0
 sklearn==0.0
-smart-open==5.2.1
 snscrape==0.3.5.dev138+ga6b6f3f
 soupsieve==2.2.1
 spacy==3.2.0
