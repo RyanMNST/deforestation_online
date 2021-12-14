@@ -1,4 +1,4 @@
-numpy
+numpy>=1.17.0
 aiobotocore
 aiodns==3.0.0
 aiohttp==3.7.4.post0
